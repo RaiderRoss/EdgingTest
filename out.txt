@@ -1,0 +1,35 @@
+clear && ./main 
+[H[2J[3J[31m[1mTest : 0 Failed
+Expected : 2
+But got : 3
+[0m[34m==============================================
+[0m[38;2;144;238;144m[1mTest : 1 Passed[0m
+[34m==============================================
+[0m[31m[1mTest : 2 Failed
+Expected : 3
+But got : 4
+[0m[34m==============================================
+[0m[31m[1mTest : 3 Failed
+Expected : 3
+But got : 5
+[0m[34m==============================================
+[0m[38;2;144;238;144m[1mTest : 4 Passed[0m
+[34m==============================================
+[0m[31m[1mTest : 0 Failed
+Expected : World  htrth rteh erht ht
+But got : World wa teh rt hrt hrto uwu
+[0m[32mW[0m[32mo[0m[32mr[0m[32ml[0m[32md[0m[32m [0m[31mw[0m[31ma[0m[31m [0m[31mt[0m[31me[0m[32mh[0m[32m [0m[32mr[0m[32mt[0m[31m [0m[32mh[0m[31mr[0m[31mt[0m[31m [0m[32mh[0m[31mr[0m[31mt[0m[31mo[0m[31m [0m[34m==============================================
+[0m[34m>>>>>----------------------->[0m	Summary
+[1mTotal test : [0m1
+[1mPercentage of testes passed : [0m0%
+[32mNumber of tests passed : [0m[31m0[0m
+[31mNumber of tests failed : [0m1
+[34m>>>>>----------------------->[0m	End
+
+[34m>>>>>----------------------->[0m	Summary
+[1mTotal test : [0m5
+[1mPercentage of testes passed : [0m40%
+[32mNumber of tests passed : [0m[38;2;255;165;0m2[0m
+[31mNumber of tests failed : [0m3
+[34m>>>>>----------------------->[0m	End
+
